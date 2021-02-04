@@ -1,0 +1,16 @@
+Distributions Which I've Used:
+
+Uniform
+Normal
+Bernoulli
+Binomial
+Exponential
+Geometric
+Hypergeometric
+Poisson
+Chi-squared
+Student T
+F Distribution
+Gamma
+Beta
+Negative Binomial
